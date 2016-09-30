@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="my.first.app" version="1.0.0">
+  <name>New Life</name>
+  <description>
+    An app to help the new believer get started on a path of growth in grace.
+  </description>
+  <author email="pastor@ibcdumaguete.com" href="http://www.ibcdumaguete.com">
+    International Baptist Church, Dumaguete
+  </author>
+</widget>
