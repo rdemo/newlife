@@ -1,0 +1,8 @@
+{
+  "name": "new-life",
+  "description": "New believers connect and grow.",
+  "main": "app.js",
+  "dependencies": {
+    "tabris": "0.9.3"
+  }
+}
