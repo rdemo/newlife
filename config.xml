@@ -7,4 +7,6 @@
   <author email="pastor@ibcdumaguete.com" href="http://www.ibcdumaguete.com">
     International Baptist Church, Dumaguete
   </author>
+    <plugin name="cordova-plugin-camera" version="1.2.0" />
+  <plugin name="cordova-plugin-dialogs" version="1.1.1" />
 </widget>
