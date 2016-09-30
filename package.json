@@ -3,6 +3,6 @@
   "description": "New believers connect and grow.",
   "main": "app.js",
   "dependencies": {
-    "tabris": "0.9.3"
+    "tabris": "1.9"
   }
 }
